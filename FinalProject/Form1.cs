@@ -25,8 +25,7 @@ namespace FinalProject
             data = JsonSerializer.Deserialize<dynamic>(JsonToString);
             List<News> news = JsonSerializer.Deserialize<List<News>>(JsonToString);
 
-            //var data2 = JsonSerializer.Deserialize<News>(JsonToString);
-            Console.WriteLine(data);
+            Console.WriteLine(data[0]);
         }
     }
 }
