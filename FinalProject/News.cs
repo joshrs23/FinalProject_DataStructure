@@ -8,13 +8,21 @@ namespace FinalProject
 {
     public class News
     {
+<<<<<<< HEAD
         private int ID; // Unique id for each news
         private DateTime Time; // Time of news publication which is based on EPOCH
         private string[] Keywords; // Keywords that best describe the content of news
         private string Content; // The content of news
         private int Hits; // Number of times that news has been retrieved
+=======
+        public int ID { get; set; } // Unique id for each news
+        public string Time { get; set; } // Time of news publication which is based on EPOCH
+        public string[] Keywords { get; set; } // Keywords that best describe the content of news
+        public string Content { get; set; } // The content of news
+        public int Hits { get; set; } // Number of times that news has been retrieved
+>>>>>>> 171907743ae3f43533bb90389f4e6d0b8984dd18
 
-        public News(int iD, long time, string[] keywords, string content, int hits)
+        /*public News(int iD, long time, string[] keywords, string content, int hits)
         {
             this.ID1  = iD;
             this.Time1 = time;
@@ -38,6 +46,6 @@ namespace FinalProject
                 keyword = keyword +" "+ Keywords[i];
             }
             return "Id :"+this.ID1+" Time : "+this.Time1+" Keywords: "+keyword+" Content: "+this.Content1+" Hits: "+this.Hits1;
-        }
+        }*/
     }
 }
