@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.Form1.resources
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\ADMIN\Desktop\GITHUB\FinalProject_DataStructure\FinalProject\obj\Debug\FinalProject.pdb
+=======
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\bin\Debug\FinalProject.exe
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
@@ -121,3 +134,4 @@ D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\obj\Debug\FinalPro
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.CopyComplete
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\obj\Debug\FinalProject.exe
 D:\Downloads\collage\winter 2023\C#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+>>>>>>> 171907743ae3f43533bb90389f4e6d0b8984dd18
