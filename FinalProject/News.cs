@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace FinalProject
 {
-    class News
+    public class News
     {
         private int ID; // Unique id for each news
-        private long Time; // Time of news publication which is based on EPOCH
+        private DateTime Time; // Time of news publication which is based on EPOCH
         private string[] Keywords; // Keywords that best describe the content of news
         private string Content; // The content of news
         private int Hits; // Number of times that news has been retrieved
